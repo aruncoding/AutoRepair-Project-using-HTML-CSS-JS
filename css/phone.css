@@ -1,0 +1,180 @@
+@media only screen and (max-width:896px){
+    #slidebar{
+        width: 61vw !important;
+        left: -61vw;
+    }
+    #slidebar.sctive{
+        left: 0px;
+    }
+    #toggle{
+        visibility: visible !important;
+    }
+    body{
+        background-color: rgb(201, 194, 194);
+    }
+    .navabr{
+        flex-direction: column !important;
+    }
+    .navbar-menu ul{
+        flex-direction: column !important;
+    }
+    .burger{
+        display: block !important;
+    }
+    .banner{
+        /* top: -59vw !important; */
+    }
+    .banner-content{
+        width: 80vw !important;
+        height: 90vh !important;
+        margin: 45vh 0vw 0 6vw !important;
+        text-align: left !important;
+    }
+    .banner-content{
+        font-size: 14px;
+    }
+    .appointment{
+        flex-direction: column;
+        width: 80vw;
+        margin: auto;
+    }
+    .appointment-button a{
+        width: 100%;
+        text-align: center;
+        padding: 7.3vw 2vw !important;
+    }
+    .services-bottom{
+        margin: 0 6vw !important;
+    }
+    .services-bottom-a{
+        flex-direction: column;
+    }
+    .services-bottom-first{
+        margin-bottom: 5vw;
+    }
+    .abouts-content{
+        flex-direction: column;
+        padding: 0 !important;
+    }
+    .abouts-left{
+        width: 100% !important;
+    }
+    .abouts-right{
+        width: 100% !important;
+        margin-top: 5vw;
+    }
+    .count-exp{
+        margin-right: 1vw !important; 
+    }
+    .exp-a{
+        font-size: 39px !important;
+    }
+    .Consultation{
+        flex-direction: column;
+    }
+    .left-Consultation{
+        width: 100% !important;
+    }
+    .right-Consultation{
+        width: 100% !important;
+    }
+    form{
+        width: 80vw !important;
+    }
+    #selects{
+        width: 70% !important;
+    }
+    .text{
+        width: 100% !important;
+    }
+    .text input{
+        width: 70% !important;
+    }
+    .vehcile{
+        width: 100%;
+        margin-bottom: 1vw;
+    }
+    .vehcile input{
+        width: 70%;
+    }
+    .date{
+        width: 100%;
+        margin-bottom: 1vw;
+    }
+    .date input{
+        width: 70%;
+    }
+    .time{
+        width: 100%;
+        margin-bottom: 1vw;
+    }
+    .time input{
+        width: 70%;
+    }
+    .blogs-content{
+        flex-direction: column;
+    }
+    .blogs-img-a{
+        width: 80vw !important;
+    }
+    .user-intro{
+        width: 80vw !important;
+    }
+    .blogs-img{
+        margin-bottom: 6vw;
+    }
+    .plans-content{
+        flex-direction: column;
+    }
+    .first-plans{
+        margin-bottom: 10vw;
+    }
+    .projects-below{
+        flex-direction: column;
+    }
+    .add{
+        text-align: left !important;
+    }
+    .first-content{
+        width: 80vw;
+        margin: 5vw auto;
+    }
+    .first-project{
+        width: 80vw !important;
+    }
+    .footer-a{
+        flex-direction: column;
+        align-items: flex-start !important;
+    }
+    .footer-first{
+        width: 80vw !important;
+        margin-bottom: 6vw;
+    }
+    .footer-second{
+        width: 80vw !important;
+        margin-bottom: 6vw;
+        
+    }
+    .footer-third{
+        width: 80vw !important;
+        margin-bottom: 6vw;
+        
+    }
+    .footer-fourth{
+        width: 80vw !important;
+    }
+    
+}
+
+
+@media only screen and (max-width:360px){
+    .banner-content{
+        width: 80vw !important;
+        height: 90vh !important;
+        margin: 45vh 0 0 !important;
+        text-align: left !important;
+    }
+    .banner-content{
+        font-size: 14px;
+    }
+}
