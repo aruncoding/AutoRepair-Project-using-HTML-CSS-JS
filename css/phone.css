@@ -21,9 +21,6 @@
     .burger{
         display: block !important;
     }
-    .banner{
-        /* top: -59vw !important; */
-    }
     .banner-content{
         width: 80vw !important;
         height: 90vh !important;
